@@ -1,1 +1,1 @@
-# CursoC-Pildoras
+# CursoC-PildorasInformaticas
